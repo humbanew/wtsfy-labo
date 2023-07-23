@@ -1,7 +1,7 @@
 {
   "name": "@humbanew/wtsfy-labo",
   "version": "0.0.1",
-  "description": "The installer of wertsfy-api.",
+  "description": "The laboratory of wertsfy-api.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
